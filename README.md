@@ -1,5 +1,8 @@
 # 适用于 IPQ系列设备的 OpenWrt 源码仓库
 
+## 推荐使用openwrt-24.10分支更加稳定
+## Recommended to use openwrt-24.10 branch more stable
+
 ## 注意
 
 1. **不要用 root 用户进行编译**
